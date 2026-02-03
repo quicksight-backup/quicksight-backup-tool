@@ -1,1 +1,1 @@
-##PoC package for testing purposes.
+PoC package for testing purposes by marvelmaniac
