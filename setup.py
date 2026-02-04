@@ -8,8 +8,7 @@ setup(
     author_email="marvelmaniac@wearehackerone.com",
     packages=find_packages(),
     install_requires=[
-        "invalid.attacker.package>=0.0.1",
-        "invalidAttackerPackage>=0.0.1",
+        "requests>=0.0.1"
     ],
     entry_points={
         "console_scripts": [
